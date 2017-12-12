@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">FacebookLoginDemo</string>
     <string name="login_with_facebook">Login with Facebook</string>
-    <string name="facebook_app_id">390315408064544</string>
-    <string name="fb_login_protocol_scheme">fb390315408064544</string>
+    <string name="facebook_app_id">390315408064544</string>     <!-- TODO need to change as your FB APP -->
+    <string name="fb_login_protocol_scheme">fb390315408064544</string> <!-- TODO need to change as your FB APP -->
     <string name="facebook_authenticaiton_request_cancelled">Facebook authentication request cancelled.</string>
 </resources>
